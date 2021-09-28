@@ -4,6 +4,7 @@
 1.Madlib <br>
 2.Guess Number <br>
 3.Rock Paper Scissors
+4.Quiz Game <br>
 
 
 
